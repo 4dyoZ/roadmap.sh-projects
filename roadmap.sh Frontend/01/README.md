@@ -1,1 +1,1 @@
-https://roadmap.sh/projects/single-page-cv
+roadmap.sh/projects/single-page-cv
